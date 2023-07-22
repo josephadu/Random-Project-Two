@@ -1,0 +1,93 @@
+body {
+    font-family: 'Merriweather', serif;
+    background-color: #FFC95F;
+}
+
+
+.Mother-div {
+    background-color: black;
+    width: 800px;
+    height: 500px;
+    margin: 315px auto 315px auto;
+}
+
+.First-child {
+    background-color: #DFA878;
+    width: 50%;
+    height: 500px;
+    display: inline-block;
+    border-radius: 30px;
+    text-align: center;
+}
+
+.Second-child {
+    background-color: #FFE5AD;
+    width: 50%;
+    height: 500px;
+    margin-left: 400px;
+    position: relative;
+    bottom: 520px;
+    text-align: center;
+}
+
+.FC-content {
+    position: relative;
+    top: 80px;
+}
+
+.Result {
+    font-size: 20px;
+}
+
+.Eighty {
+    font-size: 50px;
+}
+
+.Great {
+    font-size: 20px;
+}
+
+.summary {
+    font-size: 20px;
+    position: relative;
+    top: 30px;
+}
+
+.First-button {
+    background-color: #FFCACC;
+    border-radius: 5px;
+    border: 0;
+    height: 30px;
+}
+
+.Second-button {
+    background-color: #FFD6A5;
+    border-radius: 5px;
+    border: 0;
+    height: 30px;
+}
+
+.Third-button {
+    background-color: #8EAC50;
+    border-radius: 5px;
+    border: 0;
+    height: 30px;
+}
+
+.Fourth-button {
+    background-color: #E9F8F9;
+    border-radius: 5px;
+    border: 0;
+    height: 30px;
+}
+
+.Last-button {
+    background-color: #071952;
+    border-radius: 5px;
+    border: 0;
+    height: 30px;
+}
+
+.Last-text {
+    color: white;
+}
